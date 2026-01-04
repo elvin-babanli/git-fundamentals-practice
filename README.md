@@ -19,7 +19,7 @@ Hands-on practice of core Git workflows using real command-line operations.
 
 ---
 
-## Tasks & Visual Evidence
+## Steps & Visual Evidence
 
 ### Step 1 — Git Installation & Configuration
 ![Task 1](/screenshots/Task_1.png)
@@ -81,5 +81,4 @@ Hands-on practice of core Git workflows using real command-line operations.
 
 ---
 
-## Repository Structure
 
