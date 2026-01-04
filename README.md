@@ -21,42 +21,42 @@ Hands-on practice of core Git workflows using real command-line operations.
 
 ## Tasks & Visual Evidence
 
-### Task 1 — Git Installation & Configuration
+### Step 1 — Git Installation & Configuration
 ![Task 1](/screenshots/Task_1.png)
 
 ---
 
-### Task 2 — Project Structure
+### Step 2 — Project Structure
 ![Task 2](/screenshots/Task_2.png)
 
 ---
 
-### Task 3 — Repository Initialization
+### Step 3 — Repository Initialization
 ![Task 3](/screenshots/Task_3.png)
 
 ---
 
-### Task 4 — Staging Files
+### Step 4 — Staging Files
 ![Task 4](/screenshots/Task_4.png)
 
 ---
 
-### Task 5 — Initial Commit
+### Step 5 — Initial Commit
 ![Task 5](/screenshots/Task_5.png)
 
 ---
 
-### Task 6 — Modify & Commit
+### Step 6 — Modify & Commit
 ![Task 6](/screenshots/Task_6.png)
 
 ---
 
-### Task 7 — Add New Folder
+### Step 7 — Add New Folder
 ![Task 7](/screenshots/Task_7.png)
 
 ---
 
-### Task 8 — Discard Local Changes
+### Step 8 — Discard Local Changes
 ![Task 8](/screenshots/Task_8.png)
 
 ---
@@ -66,17 +66,17 @@ Hands-on practice of core Git workflows using real command-line operations.
 
 ---
 
-### Task 10 — Revert Commit
+### Step 10 — Revert Commit
 ![Task 10](/screenshots/Task_10.png)
 
 ---
 
-### Task 11 — Hard Reset
+### Step 11 — Hard Reset
 ![Task 11](/screenshots/Task_11.png)
 
 ---
 
-### Task 12 — Amend Commit
+### Step 12 — Amend Commit
 ![Task 12](/screenshots/Task_12.png)
 
 ---
