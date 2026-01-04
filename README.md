@@ -48,7 +48,7 @@ Hands-on practice of Git fundamentals: `add`, `commit`, `checkout`, `reset`, `re
 - `dir`
 
 **Evidence:**
-![Task 2](/screenshots/task_2.png)
+![Task 2](/screenshots/Task_2.png)
 
 ---
 
@@ -59,7 +59,7 @@ Hands-on practice of Git fundamentals: `add`, `commit`, `checkout`, `reset`, `re
 - `git init`
 
 **Evidence:**
-![Task 3](/screenshots/task_3.png)
+![Task 3](/screenshots/Task_3.png)
 
 ---
 
@@ -71,7 +71,7 @@ Hands-on practice of Git fundamentals: `add`, `commit`, `checkout`, `reset`, `re
 - `git status`
 
 **Evidence:**
-![Task 4](/screenshots/task_4.png)
+![Task 4](/screenshots/Task_4.png)
 
 ---
 
@@ -83,7 +83,7 @@ Hands-on practice of Git fundamentals: `add`, `commit`, `checkout`, `reset`, `re
 - `git log --oneline`
 
 **Evidence:**
-![Task 5](/screenshots/task_5.png)
+![Task 5](/screenshots/Task_5.png)
 
 ---
 
@@ -98,7 +98,7 @@ Hands-on practice of Git fundamentals: `add`, `commit`, `checkout`, `reset`, `re
 - `git log --oneline`
 
 **Evidence:**
-![Task 6](/screenshots/task_6.png)
+![Task 6](/screenshots/Task_6.png)
 
 ---
 
@@ -113,7 +113,7 @@ Hands-on practice of Git fundamentals: `add`, `commit`, `checkout`, `reset`, `re
 - `git log --oneline`
 
 **Evidence:**
-![Task 7](/screenshots/task_7.png)
+![Task 7](/screenshots/Task_7.png)
 
 ---
 
@@ -127,7 +127,7 @@ Hands-on practice of Git fundamentals: `add`, `commit`, `checkout`, `reset`, `re
 - `git status`
 
 **Evidence:**
-![Task 8](/screenshots/task_8.png)
+![Task 8](/screenshots/Task_8.png)
 
 ---
 
@@ -142,7 +142,7 @@ Hands-on practice of Git fundamentals: `add`, `commit`, `checkout`, `reset`, `re
 - `git status`
 
 **Evidence:**
-![Task 9](/screenshots/task_9.png)
+![Task 9](/screenshots/Task_9.png)
 
 ---
 
@@ -155,7 +155,7 @@ Hands-on practice of Git fundamentals: `add`, `commit`, `checkout`, `reset`, `re
 - `git log --oneline`
 
 **Evidence:**
-![Task 10](/screenshots/task_10.png)
+![Task 10](/screenshots/Task_10.png)
 
 ---
 
@@ -168,7 +168,7 @@ Hands-on practice of Git fundamentals: `add`, `commit`, `checkout`, `reset`, `re
 - `git log --oneline`
 
 **Evidence:**
-![Task 11](/screenshots/task_11.png)
+![Task 11](/screenshots/Task_11.png)
 
 ---
 
@@ -180,7 +180,7 @@ Hands-on practice of Git fundamentals: `add`, `commit`, `checkout`, `reset`, `re
 - `git log --oneline`
 
 **Evidence:**
-![Task 12](/screenshots/task_12.png)
+![Task 12](/screenshots/Task_12.png)
 
 ---
 
