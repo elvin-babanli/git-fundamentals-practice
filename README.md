@@ -35,7 +35,7 @@ Hands-on practice of Git fundamentals: `add`, `commit`, `checkout`, `reset`, `re
 - `git config --global --list`
 
 **Evidence:**
-![Task 1](screenshots/task_1.png)
+![Task 1](/screenshots/Task_1.png)
 
 ---
 
